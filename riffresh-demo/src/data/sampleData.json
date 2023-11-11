@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Lorem",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc. Sed auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc.",
+        "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc. Sed auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc.",
+        "keywords": [
+            "Lorem",
+            "Ipsum"
+        ],
+        "yearStarted": 2000,
+        "yearCompleted": 2023,
+        "company": "Lorem",
+        "workIP": true,
+        "tools": "[Lorem, Ipsum, Ardin]",
+        "role": "Lorem",
+        "UID": 73424525
+    },
+    {
+        "name": "Lorem Ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc. Sed auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc.",
+        "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc. Sed auctor, nunc id ultricies ultricies, nunc nunc lacinia nunc, nec lacinia nunc nunc nec nunc.",
+        "keywords": [
+            "Lorem",
+            "Ipsum",
+            "Ardin"
+        ],
+        "yearStarted": 2021,
+        "yearCompleted": 2021,
+        "company": "Lorem Ipsum",
+        "workIP": false,
+        "tools": "",
+        "role": "",
+        "UID": 76671257
+    }
+]
