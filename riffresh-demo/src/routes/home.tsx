@@ -1,26 +1,12 @@
-import React from "react";
+import React from 'react'
 
 function Home() {
-  return (
-    <div>
-      <a
-        className="uppercase hover:underline"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Learn React
-      </a>
-      <a
-        className="ml-10 uppercase hover:underline"
-        href="https://tailwindcss.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Learn Tailwind
-      </a>
-    </div>
-  );
+    return (
+        <div>
+            <div className="w-1/4">hello</div>
+            <div className="w-3/4">bye</div>
+        </div>
+    )
 }
 
-export default Home;
+export default Home
