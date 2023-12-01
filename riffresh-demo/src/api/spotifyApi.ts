@@ -1,5 +1,6 @@
 const clientId = '8e253a4344c14a55a02b42fe43a3d9ac';
-const redirect_uri = 'http://localhost:3000/';
+// const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'http://riffresh.vercel.app/';
 
 let accessToken: string;
 
